@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-I'm a Junior Web Developer and UI designer currently building with HMTL, CSS and JS. My goal is to work in a full-stack capacity on exploratory, cloud-based web projects. I also like messing around with 3D and animation.
+I'm a Junior Web Developer and UI designer, building with HMTL, CSS and JS. My goals are to work in a full-stack capacity on exploratory, cloud-based web projects and to become a GCP ninja. I also like messing around with 3D 🧊.
 
 - 🔭 I’m currently working on an audio plugin for spatial audio music production and an AI fashion brand.
 - 🌱 I’m currently learning Google Cloud Platform + Google Firebase + Full-Stack with Codecademy.
