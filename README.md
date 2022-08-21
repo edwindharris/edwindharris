@@ -1,4 +1,5 @@
 ### Hi there 👋 
+<!--
 <div>
 My name is Ed. I am a Junior Web Developer building with HMTL, CSS and JS. My goal is to work full-stack on exploratory, cloud-based web projects.
 </div>
@@ -25,3 +26,4 @@ My name is Ed. I am a Junior Web Developer building with HMTL, CSS and JS. My go
 
 ![Google](https://github.com/edwindharris/edwindharris/blob/main/icons/google-color.svg?raw=true)
 
+-->
