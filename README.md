@@ -1,7 +1,7 @@
 ### Hi there 👋 
 <!--
 <div>
-My name is Ed. I am a Junior Web Developer building with HMTL, CSS and JS. My goal is to work full-stack on exploratory, cloud-based web projects.
+My name is Ed. I am a Junior, Front-end Web Developer building with HMTL, CSS and JS. My goal is to work full-stack on exploratory, cloud-based web projects.
 </div>
 <br>
 <ul>
@@ -15,19 +15,19 @@ My name is Ed. I am a Junior Web Developer building with HMTL, CSS and JS. My go
   <br>
 </ul>
 <hr/>
-<h3>Languages and tools</h3>
+<h3>Languages and tools:</h3>
 
 ![Languages and Skills](https://github.com/edwindharris/edwindharris/blob/main/icons/tech-icons.svg?raw=true)
 
 <hr/>
-<h3>I can also be found in these places</h3>
+<h3>Can also be found:</h3>
 
 <div align="center">
   
   <p float="left">
-    <a href="https://twitter.com/edwindharris"><img style="width:5vw;" src="https://github.com/edwindharris/edwindharris/blob/main/icons/twitter-color.svg?raw=true)"></a> 
-    <a href="https://g.dev/edwindharris"><img style="width:5vw;" src="https://github.com/edwindharris/edwindharris/blob/main/icons/google-color.svg?raw=true)"></a> 
-    <a href="https://www.linkedin.com/in/edwindharris/"><img style="width:5vw;" src="https://github.com/edwindharris/edwindharris/blob/main/icons/linkedin-color.svg?raw=true)"></a>
+    <a href="https://twitter.com/edwindharris"><img style="width:100px;" src="https://github.com/edwindharris/edwindharris/blob/main/icons/twitter-color.svg?raw=true)"></a> 
+    <a href="https://g.dev/edwindharris"><img style="width:100px;" src="https://github.com/edwindharris/edwindharris/blob/main/icons/google-color.svg?raw=true)"></a> 
+    <a href="https://www.linkedin.com/in/edwindharris/"><img style="width:100px;" src="https://github.com/edwindharris/edwindharris/blob/main/icons/linkedin-color.svg?raw=true)"></a>
   </p> 
 </div>
 -->
