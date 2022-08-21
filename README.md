@@ -27,8 +27,7 @@ My name is Ed. I am a Junior Web Developer building with HMTL, CSS and JS. My go
   <p float="left">
     <a href="https://twitter.com/edwindharris"><img style="width:5vw;" src="https://github.com/edwindharris/edwindharris/blob/main/icons/twitter-color.svg?raw=true)"></a> 
     <a href="https://g.dev/edwindharris"><img style="width:5vw;" src="https://github.com/edwindharris/edwindharris/blob/main/icons/google-color.svg?raw=true)"></a> 
+    <a href="https://www.linkedin.com/in/edwindharris/"><img style="width:5vw;" src="https://github.com/edwindharris/edwindharris/blob/main/icons/linkedin-color.svg?raw=true)"></a>
   </p> 
-  
 </div>
 -->
-
