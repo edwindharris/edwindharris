@@ -22,4 +22,13 @@ My name is Ed. I am a Junior Web Developer building with HMTL, CSS and JS. My go
 <hr/>
 <h3>I can also be found in these places</h3>
 
-11>
+<div align="center">
+  
+  <p float="left">
+    <a href="https://twitter.com/edwindharris"><img style="width:5vw;" src="https://github.com/edwindharris/edwindharris/blob/main/icons/twitter-color.svg?raw=true)"></a> 
+    <a href="https://g.dev/edwindharris"><img style="width:5vw;" src="https://github.com/edwindharris/edwindharris/blob/main/icons/google-color.svg?raw=true)"></a> 
+  </p> 
+  
+</div>
+-->
+
