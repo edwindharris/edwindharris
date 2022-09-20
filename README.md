@@ -1,6 +1,6 @@
 ### Hi there 👋 
 <div>
-My name is Ed. I am a Front-end Web Developer building with HMTL, CSS and JS. 
+My name is Ed. I am a Front-end Web Developer building with HMTL, CSS and JS/TS. 
 </br>
 The goal is to work full-stack on exploratory, cloud-based web projects.
 </div>
@@ -10,12 +10,10 @@ The goal is to work full-stack on exploratory, cloud-based web projects.
   <br>
   <li>🌱 I’m learning Google Cloud Platform / Google Firebase + Full-Stack with Codecademy.</li>
   <br>
-  <li>🔫 My weapons of choice include but are not limited to Adobe Illustrator, CSS, Figma, Google Firebase, HTML, JavaScript, Material UI, React, Spline, Typescript and Wordpress.</li>
+  <li>🔫 My weapons of choice include but are not limited to Adobe Illustrator, Figma, Google Firebase, Material UI, React, Spline and Wordpress.</li>
   <br>
   <li>⚙️ <a href="https://edwindharris.dev" target="_blank">edwindharris.dev</a> is undergoing a React revamp!</li>
-  <br>
 </ul>
-<hr/>
 
 <!--
 <h3>Languages and tools:</h3>
