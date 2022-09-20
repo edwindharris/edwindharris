@@ -14,3 +14,6 @@ The goal is to work full-stack on exploratory, cloud-based web projects.
   <br>
   <li>⚙️ <a href="https://edwindharris.dev" target="_blank">edwindharris.dev</a> is undergoing a React revamp!</li>
 </ul>
+<div align="center">
+<img src="https://github.com/edwindharris/edwindharris/blob/main/images/ed-dev-thumb.png" style="width: 25%; height: 25%"/>
+</div>
