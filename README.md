@@ -17,6 +17,7 @@ The goal is to work full-stack on exploratory, cloud-based web projects.
 </ul>
 <hr/>
 
+<!--
 <h3>Languages and tools:</h3>
 <a href="https://edwindharris.dev" target="_blank"><img style="width: 100%" src="https://github.com/edwindharris/edwindharris/blob/main/icons/tech-icons.svg?raw=true"/></a>
 <hr/>
@@ -29,3 +30,4 @@ The goal is to work full-stack on exploratory, cloud-based web projects.
     <a href="https://www.linkedin.com/in/edwindharris/"><img style="width:10%; margin-left: 10%;" src="https://github.com/edwindharris/edwindharris/blob/main/icons/linkedin-color.svg?raw=true)"></a>
   </p> 
 </div>
+-->
