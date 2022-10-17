@@ -1,6 +1,6 @@
 ### Hi there 👋 
 <div>
-My name is Ed. I am a Front-end Web Developer building with HMTL, CSS and JS. The goal is to work full-stack on exploratory, cloud-based web projects.
+My name is Ed. I am a Front-end Web Developer building with HMTL, CSS and JS. The goal is to work on immersive and  exploratory cloud-based web projects.
 </div>
 <br>
 <ul>
